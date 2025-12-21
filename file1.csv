@@ -1,0 +1,31 @@
+id,name,age,city
+1,Grace_1,30,New York
+2,Charlie_2,44,Columbus
+3,Grace_3,23,Cleveland
+4,Charlie_4,54,Pittsburgh
+5,Frank_5,36,New York
+6,Sara_6,58,New York
+7,Naryan_7,56,Hartford
+8,Amit_8,44,Dallas
+9,Eva_9,38,Hartford
+10,Grace_10,23,Austin
+11,David_11,43,Albany
+12,Helen_12,50,Providence
+13,Naryan_13,35,Albany
+14,Bob_14,34,Chicago
+15,Alice_15,25,Hartford
+16,Alice_16,39,Austin
+17,Eva_17,20,Indianapolis
+18,David_18,50,Newyark
+19,Bob_19,49,Chicago
+20,Sara_20,43,Los Angeles
+21,Sara_21,45,Providence
+22,Deb_22,46,Chicago
+23,Sara_23,52,Providence
+24,Gautam_24,23,Chicago
+25,Rupa_25,31,San Francisco
+26,Gautam_26,44,Philadelphia
+27,Bob_27,32,Newyark
+28,Bob_28,33,Providence
+29,Frank_29,48,Hartford
+30,Naryan_30,38,Indianapolis
